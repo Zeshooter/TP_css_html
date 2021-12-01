@@ -27,7 +27,7 @@ h3 {
     border-radius: 50px;
 }
 
-#adele:hover, #son:hover {
+#adele:hover {
     transition : 1s;
     transform: scale(2.0);
 
