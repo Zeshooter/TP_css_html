@@ -25,6 +25,11 @@ h3 {
 
 #son {
     border-radius: 50px;
+    width:15%;
+}
+
+#adele {
+    width:15%;
 }
 
 #adele:hover {
